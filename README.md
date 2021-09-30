@@ -22,6 +22,8 @@
 
 ## 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=mateuseap&bg_color=282a36&line=dd6387&point=f6f6f0&area=true&area_color=6ec4e2&color=dd6387&custom_title=Mateus%20Elias'%20Contribution%20Graph%20">
+<img height="310em" src="https://activity-graph.herokuapp.com/graph?username=mateuseap&bg_color=282a36&line=dd6387&point=f6f6f0&area=true&area_color=6ec4e2&color=f6f6f0&custom_title=Mateus%20Elias'%20Contribution%20Graph%20">
+
+![Snake Animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/8082840dd4c64b2b8df9e2dc23b1730bbf0c0e73/github-contribution-grid-snake.svg)
 
 ## 
