@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media2.giphy.com/avatars/danielfigueirdo/mR5uHXLuePGT.gif" width="35px"/> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mateuseap.mateuseap)
+# Hi there! <img src="https://media2.giphy.com/avatars/danielfigueirdo/mR5uHXLuePGT.gif" height="35px" width="35px"/> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mateuseap.mateuseap)
 
 ### 😁 About me
 
