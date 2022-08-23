@@ -10,7 +10,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuseap&theme=dracula&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuseap&layout=compact&theme=dracula&langs_count=16&hide=Jupyter Notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuseap&layout=compact&theme=dracula&langs_count=16&hide=Jupyter%20Notebook"/>
 </div>
  
 ### 
