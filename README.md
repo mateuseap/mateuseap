@@ -3,7 +3,7 @@
 ### 😁 About me
 
 ##### 
-- 👨‍💻 I'm 21 years old and a Computer Engineering undergraduate student at CIn/UFPE. 
+- 👨‍💻 I'm 21 years old and a Computer Science undergraduate student at CIn/UFPE. 
 - ❤ Passionate about learning new programming languages and helping others by using technology. 
 
 ### 
