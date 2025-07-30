@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-%233A1A6D?style=flat&logo=protonmail&logoColor=white&size=large)](mailto:mateuseap@mateuseap.com)
 [![Medium](https://img.shields.io/badge/Medium-%23000000?style=flat&logo=medium&logoColor=white&size=large)](https://medium.com/@mateuselias)
 [![mateuseap.com | Portfolio](https://img.shields.io/badge/mateuseap.com%20%7C%20Portfolio-%23007A7A?style=flat&logo=ghost&logoColor=white&size=large)](https://www.mateuseap.com/)
-[![mateuseap.space | Blog](https://img.shields.io/badge/mateuseap.space%20%7C%20Blog-%239C3D3D?style=flat&logo=ghost&logoColor=white&size=large)](https://mateuseap.blog/)
+[![mateuseap.space | Blog](https://img.shields.io/badge/mateuseap.space%20%7C%20Blog-%239C3D3D?style=flat&logo=ghost&logoColor=white&size=large)](https://mateuseap.space/)
 
 ```bash
 mateus@pc:~$ sudo chmod a+x welcome.sh && ./welcome.sh
