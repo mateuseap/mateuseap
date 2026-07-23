@@ -28,6 +28,6 @@ My name is Mateus Elias, I'm 24 years and passionate about learning new programm
 #### 📈 My stats
 
 <div id="my-stats">
-  <img height="180em" src="https://github-readme-stats-inky-nu-25.vercel.app/api?username=mateuseap&theme=aura_dark&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-inky-nu-25.vercel.app/api/top-langs/?username=mateuseap&layout=compact&theme=aura_dark&langs_count=12&hide=Verilog,SystemVerilog,Jupyter%20Notebook,Coq,ASP.NET,HTML,CSS,Dockerfile"/>
+  <img height="180em" src="https://github-readme-stats-inky-nu-25.vercel.app/api?username=mateuseap&theme=aura_dark&show_icons=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-inky-nu-25.vercel.app/api/top-langs/?username=mateuseap&layout=compact&theme=aura_dark&langs_count=12&hide=Verilog,SystemVerilog,Jupyter%20Notebook,Coq,ASP.NET,HTML,CSS,Dockerfile&cache_seconds=86400"/>
 </div>
