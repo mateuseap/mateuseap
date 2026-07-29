@@ -22,7 +22,7 @@ mateus@pc:~$ sudo chmod a+x welcome.sh && ./welcome.sh
 
 My name is Mateus Elias, I'm 24 years and passionate about learning new programming languages and helping others by using technology. 
 
-- 🖥️ Software Engineer
+- 🖥️ Software Engineer @ Trillia B3
 - 🎓 B.Sc. Student of Computer Science @ CIn/UFPE
 
 #### 📈 My stats
